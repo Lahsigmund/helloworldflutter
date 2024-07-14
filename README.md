@@ -6,3 +6,5 @@ Flutter documentation
 Development wiki
 Contributing to Flutter
 For announcements about new releases, follow the flutter-announce@googlegroups.com mailing list. Our documentation also tracks breaking changes across releases.
+# About Flutter
+We think Flutter will help you create beautiful, fast apps, with a productive, extensible and open development model, whether you're targeting iOS or Android, web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of your choice.
